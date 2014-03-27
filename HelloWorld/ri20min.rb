@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby @Eclipse commit
 
 class MegaGreeter
   attr_accessor :names
