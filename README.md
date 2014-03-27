@@ -10,3 +10,5 @@ Start with >> http://tryruby.org/levels/1/challenges/0
 5. When you run the last step run it in the cmd not interactive ruby
 
 Book >> http://manning.com/mcanally/Samplechapter1.pdf
+
+From Java to Ruby >> https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
