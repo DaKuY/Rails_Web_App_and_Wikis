@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby @Eclipse commit
-
+# @autor Andrew
 class MegaGreeter
   attr_accessor :names
 
