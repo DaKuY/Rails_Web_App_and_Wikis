@@ -9,6 +9,9 @@ Start with >> http://tryruby.org/levels/1/challenges/0
 4. Follow Rails in 20mins >> https://www.ruby-lang.org/en/documentation/quickstart/2/ 
 5. When you run the last step run it in the cmd not interactive ruby
 
-Book >> http://manning.com/mcanally/Samplechapter1.pdf
-
+Getting Started with Rails >> http://guides.rubyonrails.org/getting_started.html
+Tutorial by Michael Hartl >> http://ruby.railstutorial.org/
 From Java to Ruby >> https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
+Rails Advanced with DB Book >> http://manning.com/mcanally/Samplechapter1.pdf
+
+ssh key location >> C:\Users\i315124/.ssh/id_rsa.pub
