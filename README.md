@@ -1,5 +1,5 @@
-rails_web_app
-=============
+Building a Web App with Rails
+==============================
 
 http://guides.rubyonrails.org/getting_started.html
 
