@@ -3,8 +3,10 @@ Blog::Application.routes.draw do
   
   resources :posts
   
+  resources :articles
+  
   root to:'welcome#index'
-    
+  
  end
 ########### Examples ########### 
   # The priority is based upon order of creation: first created -> highest priority.
