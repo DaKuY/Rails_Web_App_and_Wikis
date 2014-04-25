@@ -1,9 +1,9 @@
 Blog::Application.routes.draw do
   get "welcome/index"
   
-  resources :posts
-  
-  resources :articles
+  resources :posts do
+    resources :comments
+  end
   
   root to:'welcome#index'
   
