@@ -2,8 +2,7 @@ Building a Web App with Rails
 ==============================
 
 http://guides.rubyonrails.org/getting_started.html <br>
-left off at >> 9.1 Basic Authentication
-
+Finished!
 
 Learn Ruby the Hard Way Tutorial
 =================================
