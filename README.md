@@ -9,4 +9,4 @@ Learn Ruby the Hard Way Tutorial
 =================================
 
 https://docs.google.com/file/d/0ByJDR9YxdmHJZkZ2dGUtV1lqTjQ/edit <br>
-left off at >> Exercise 1 Extra Credit
+left off at >> Exercise 7 More Printing
